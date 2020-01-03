@@ -9,3 +9,4 @@ Checklist:
 - [ ] Test model
 
 Still need more data to train the model.
+Also testing whether other architectures (preferably something more lightweight) may do the job better.
